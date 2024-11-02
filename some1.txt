@@ -4,3 +4,5 @@ edit on nov 1
 branch1 new edit
 
 new 2 editing
+
+new 3 update on local and pass to git
